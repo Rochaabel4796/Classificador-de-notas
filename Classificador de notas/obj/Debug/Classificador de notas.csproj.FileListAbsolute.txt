@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Classificador de notas\Classificador de notas\bin\Debug\Classificador de notas.exe.config
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Classificador de notas\Classificador de notas\bin\Debug\Classificador de notas.exe
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Classificador de notas\Classificador de notas\bin\Debug\Classificador de notas.pdb
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Classificador de notas\Classificador de notas\obj\Debug\Classificador de notas.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Classificador de notas\Classificador de notas\obj\Debug\Classificador de notas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Classificador de notas\Classificador de notas\obj\Debug\Classificador de notas.exe
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Classificador de notas\Classificador de notas\obj\Debug\Classificador de notas.pdb
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Classificador de notas\Classificador de notas\obj\Debug\Classificador de notas.exe.config
